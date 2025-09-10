@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-Published a short paper at ACL 2025: ChronoSense. See the entry on the publications page: [/publications/#islakoglu2025chronosense](/publications/#islakoglu2025chronosense).
+Published a short paper at ACL 2025: ChronoSense. See it on the publications page: [ChronoSense entry]({{ '/publications/#islakoglu2025chronosense' | relative_url }}).
 
 Short description: ChronoSense evaluates temporal understanding in large language models using event time intervals (e.g., Allen relations), highlighting current gaps in interval reasoning.
