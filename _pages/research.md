@@ -6,29 +6,24 @@ nav: true
 nav_order: 3
 ---
 
-My research combines **structured** and **unstructured** data. I work on knowledge graphs, large language models, and data integration methods with the goal of improving how we access, clean, and reason with data.  
+My research studies what happens at the boundaries between different representations of knowledge — text, tables, knowledge graphs, queries, logical formulas, and language model parameters. Moving between these forms is never lossless, and whether two representations encode the same knowledge depends on what population, time frame, or scope is assumed. Expressing the same knowledge in multiple forms and studying where the versions disagree is a diagnostic: it tells us what each representation captures, what it silently drops, and where context is doing hidden work.
 
-### Hybrid reasoning with Knowledge Graphs and LLMs
-We integrate symbolic constraints with large language models to enable more robust reasoning.  
-Focus areas: autoformalization of natural language into formal queries, constraint checking, and hybrid benchmarks.  
+### Autoformalization and deductive reasoning
+Translating natural-language statements into formal representations (logic, queries) and studying how well LLMs perform deductive reasoning once knowledge is expressed in structured form.  
 [See related projects →](/projects/#hybrid-reasoning)
 
-### Multilingual inconsistencies and data integration
-Studying contradictions across multilingual sources such as Wikipedia tables, and developing methods for large-scale integration.  
-Work includes table alignment, factual consistency, schema mapping, and entity disambiguation pipelines.  
+### Cross-lingual consistency and knowledge integration
+Studying contradictions across multilingual knowledge sources such as Wikipedia and Wikidata — where scope, population, and temporal assumptions diverge silently across languages.  
 [See related projects →](/projects/#data-integration)
 
-### Data cleaning with LLMs
-Using large language models for data cleaning tasks such as deduplication, normalization, and validation.  
-Applications include CBS Netherlands tables and large open government datasets.  
+### Text-to-SQL over real-world statistical data
+Working with Statistics Netherlands (CBS) on translating natural-language questions into SQL over complex statistical tables, where schema design encodes implicit context about populations and time frames.  
 [See related projects →](/projects/#data-cleaning)
 
-### LLMs for structured knowledge access
-Exploring how LLMs can both query and substitute for structured data sources.  
-This includes Text2SQL/SPARQL methods, structured query fallback for QA, and studying when LLMs can act as knowledge bases or databases compared to symbolic systems.  
+### Probing language model representations
+Investigating what knowledge LLMs actually encode, and where they diverge from structured sources — treating the comparison itself as a diagnostic for understanding both representations.  
 [See related projects →](/projects/#structured-access)
 
-### Information extraction
-Building knowledge graphs from text and semi-structured data.  
-I work on extracting entities, relations, and events, and linking them into large-scale resources for downstream reasoning tasks.  
+### Information extraction and knowledge base construction
+Building knowledge graphs from text and semi-structured data — extracting entities, relations, and events, and studying what is lost or transformed in the process.  
 [See related projects →](/projects/#information-extraction)
