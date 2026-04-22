@@ -2,9 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-display_categories: [work, fun]
+description: Research threads and the papers that make them up.
+nav: true
+nav_order: 4
+display_categories: [research]
 horizontal: false
 ---
 
