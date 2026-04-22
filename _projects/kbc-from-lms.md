@@ -2,6 +2,7 @@
 layout: page
 title: Knowledge Base Construction from Language Models
 description: Treating LLMs as compressed, implicit knowledge bases — extracting, evaluating, and comparing their knowledge to structured sources.
+img: assets/img/projects/kbc-from-lms.png
 importance: 2
 category: research
 related_publications: true

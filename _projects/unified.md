@@ -2,6 +2,7 @@
 layout: page
 title: UNIFIED
 description: EU Innovative Health Initiative project on patient-centred clinical-study endpoints derived from digital health technologies.
+img: assets/img/projects/unified.png
 importance: 4
 category: research
 ---
