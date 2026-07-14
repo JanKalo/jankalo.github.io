@@ -2,11 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor at <a href='https://indelab.science.uva.nl/'>INDElab, University of Amsterdam</a>
+subtitle: Assistant Professor at <a href='https://indelab.org'>INDElab, University of Amsterdam</a>
 
 profile:
   align: right
   image: prof_pic.jpg
+  alt: Portrait of Jan-Christoph Kalo
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Amsterdam</p>
@@ -20,31 +21,26 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am **Jan-Christoph Kalo**, Assistant Professor at the University of Amsterdam in the [Intelligent Data Engineering Lab (INDElab)](https://indelab.org).
 
+[Research](/research/) · [Publications](/publications/) · [Google Scholar](https://scholar.google.de/citations?user=2EE-YUsAAAAJ) · [Email](mailto:j.c.kalo@uva.nl)
+
 My research studies what happens at the boundaries between different
 representations of knowledge. The same fact can live as a sentence in text,
 a row in a statistical table, a triple in a knowledge graph, a SQL query, a
 logical formula, or somewhere in the parameters of a language model — and
-moving between these forms is never lossless, nor is it context-free.
-Whether two representations actually encode the same knowledge depends on
-what population, time frame, or scope is assumed, and integrating them means
-making those assumptions explicit. I work at the intersection of **language
-models, knowledge graphs, and databases** on the translations, integrations,
-and mismatches between these representations, combining semantic web,
-database, and NLP techniques.
+moving between these forms is often lossy and context-dependent. Whether two
+representations actually encode the same knowledge depends on what
+population, time frame, or scope is assumed, and integrating them means
+making those assumptions explicit: this is what I call *knowledge
+translation*.
 
-Concretely, this spans information extraction and knowledge base
-construction, text-to-SQL over real-world statistical data (in collaboration
-with Statistics Netherlands / CBS), autoformalization and deductive
-reasoning with LLMs, cross-lingual consistency on large public knowledge
-sources like Wikipedia and Wikidata, probing what language models
-actually represent, and, within the EU project UNIFIED, semantic
-harmonisation of patient-centred endpoints from digital health data. A
-recurring methodological stance runs through these: expressing the same
-knowledge in multiple forms and studying where the versions disagree is a
-diagnostic — it tells us what each representation captures, what it silently
-drops, and where context is doing hidden work.
+I work at the intersection of **language models, knowledge graphs, and
+databases**, combining semantic web, database, and NLP techniques.
+Expressing the same knowledge in multiple forms and studying where the
+versions disagree is a diagnostic — it tells us what each representation
+captures, what it silently drops, and where context is doing hidden work.
+The full portfolio of projects is on the [Research](/research/) page.
 
-Beyond research, I teach databases in the Bachelor program at UvA and
+Beyond research, I teach databases in the Bachelor programme at UvA and
 supervise MSc and PhD projects. I currently supervise the PhD candidates
 [Fabian Hoppe](https://www.fhoppe.com/) (deductive reasoning with LLMs;
 VU Amsterdam, LEMUR doctoral network),
@@ -55,7 +51,7 @@ official statistics, with Statistics Netherlands). I have supervised more
 than 45 BSc and MSc theses, including winners of the ADS Thesis Award
 (2022) and the best AI bachelor thesis award of Lower Saxony (2019).
 
-I co-organize the Dagstuhl Seminar
+I co-organise the Dagstuhl Seminar
 ["Large Language Models Meet Knowledge Graphs"](https://www.dagstuhl.de/26411)
 (October 2026), the [AKBC workshop](https://akbc.ws/2026/), and the
 [LM-KBC challenge](https://lm-kbc.github.io/) on knowledge base construction

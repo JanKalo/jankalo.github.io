@@ -2,7 +2,6 @@
 layout: page
 title: Autoformalization and Deductive Reasoning
 description: Translating natural-language statements into formal representations, and studying where LLMs succeed and fail once knowledge is made explicit.
-img: assets/img/projects/chronosense.png
 importance: 1
 category: research
 related_publications: true

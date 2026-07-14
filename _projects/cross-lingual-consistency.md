@@ -27,5 +27,5 @@ The same question applies to the knowledge sources themselves:
 [Factual Inconsistencies in Multilingual Wikipedia
 Tables](/publications/#cappa2025factual) studies where the language
 editions of Wikipedia disagree on structured facts, quantifying
-inconsistencies that any model trained on this data inherits
+inconsistencies that models trained on this data may reproduce
 {% cite cappa2025factual %}.

@@ -7,9 +7,10 @@ category: research
 related_publications: true
 ---
 
-A large language model is a compressed, implicit knowledge base. This thread
-asks what kind of knowledge base it is — how to extract it, how to evaluate
-it, and where it diverges from structured sources like Wikidata.
+A large language model can be studied as a compressed, implicit knowledge
+source. This thread asks what kind of knowledge source it is — how to
+extract it, how to evaluate it, and where it diverges from structured
+sources like Wikidata.
 
 Methodological work includes [KAMEL](/publications/#kalo2022kamel) (AKBC 2022),
 a probing benchmark with multi-token entities {% cite kalo2022kamel %};

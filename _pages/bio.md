@@ -14,8 +14,8 @@ parameters of language models. He holds a PhD in Computer Science from TU
 Braunschweig (2021) on resolving representation heterogeneity in real-world
 knowledge graphs, and was a postdoctoral researcher in the Knowledge
 Representation and Reasoning group at Vrije Universiteit Amsterdam
-(2021–2023). He co-organizes the Dagstuhl Seminar "Large Language Models
+(2021–2023). He co-organises the Dagstuhl Seminar "Large Language Models
 Meet Knowledge Graphs" (2026), the AKBC workshop, and the LM-KBC challenge,
 serves in the management team of the COST Action KGELL, is active in the
 COST Action GOBLIN, and teaches at the ISWS summer school and in the SIKS
-PhD program.
+PhD programme.

@@ -6,9 +6,9 @@ nav: true
 nav_order: 3
 ---
 
-### Toward a Science of Knowledge Translation
+### Towards a Science of Knowledge Translation
 
-My research studies what happens at the boundaries between different representations of knowledge — text, tables, knowledge graphs, queries, logical formulas, and language model parameters. Moving between these forms is never lossless, and whether two representations encode the same knowledge depends on what population, time frame, or scope is assumed. Expressing the same knowledge in multiple forms and studying where the versions disagree is a diagnostic: it tells us what each representation captures, what it silently drops, and where context is doing hidden work.
+My research studies what happens at the boundaries between different representations of knowledge — text, tables, knowledge graphs, queries, logical formulas, and language model parameters. Moving between these forms is often lossy and context-dependent, and whether two representations encode the same knowledge depends on what population, time frame, or scope is assumed. Expressing the same knowledge in multiple forms and studying where the versions disagree is a diagnostic: it tells us what each representation captures, what it silently drops, and where context is doing hidden work.
 
 Turning this diagnostic stance into predictive theory: when is a mapping
 between representations faithful, what does it silently drop, and can
@@ -20,7 +20,7 @@ which translations.
   <svg
     viewBox="0 0 920 640"
     role="img"
-    aria-label="The research program as a graph. Nodes are representations of knowledge: natural language, knowledge graphs, formal logic, SQL and relational schemas, and language model parameters. Labeled edges are research threads, colored by pillar. First pillar, between language models and knowledge graphs: knowledge base construction maps language model parameters to knowledge graphs; cross-lingual consistency maps natural language to natural language; GraphRAG maps knowledge graphs to natural language. Second pillar, from language to logic: autoformalization maps natural language to formal logic; temporal knowledge maps between natural language and knowledge graphs with time qualification. Third pillar, applied translation: text-to-SQL maps natural language to SQL; UNIFIED, a domain instance, maps clinical records to clinical vocabularies."
+    aria-label="The research programme as a graph. Nodes are representations of knowledge: natural language, knowledge graphs, formal logic, SQL and relational schemas, and language model parameters. Labelled edges are research threads, coloured by pillar. First pillar, between language models and knowledge graphs: knowledge base construction maps language model parameters to knowledge graphs; cross-lingual consistency maps natural language to natural language; GraphRAG maps knowledge graphs to natural language. Second pillar, from language to logic: autoformalization maps natural language to formal logic; temporal knowledge maps between natural language and knowledge graphs with time qualification. Third pillar, applied translation: text-to-SQL maps natural language to SQL; UNIFIED, a domain instance, maps clinical records to clinical vocabularies."
     style="width: 100%; height: auto; font-family: inherit;"
   >
     <defs>
@@ -102,7 +102,7 @@ which translations.
     </g>
   </svg>
   <figcaption style="font-size: 0.875rem; color: var(--global-text-color-light); margin-top: 0.5rem;">
-    The research program, drawn as what it is — a graph. Nodes are representations of knowledge; labeled edges are the research threads that map one into another, colored by pillar (each edge links to its pillar below).
+    The research programme, drawn as what it is — a graph. Nodes are representations of knowledge; labelled edges are the research threads that map one into another, coloured by pillar (each edge links to its pillar below).
   </figcaption>
 </figure>
 
@@ -144,8 +144,8 @@ natural-language statements into formal representations (logic, queries)
 and studying how LLMs perform deductive reasoning once knowledge is made
 explicit.
 
-**Temporal knowledge and reasoning.** Time is where knowledge translation
-fails hardest: texts underspecify validity intervals, knowledge graphs
+**Temporal knowledge and reasoning.** Temporal knowledge is a particularly
+difficult case: texts underspecify validity intervals, knowledge graphs
 qualify them, and language models flatten them into timeless facts.
 ChronoSense (ACL 2025) evaluates interval-based temporal understanding via
 Allen relations, exposing gaps between knowing *when* events happened and

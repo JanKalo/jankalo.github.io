@@ -8,4 +8,4 @@ related_posts: false
 
 Our paper on the robustness of deductive reasoning with LLMs was presented at ECAI 2025. See it on the publications page: [Robustness paper entry]({{ '/publications/#hoppe2025investigating' | relative_url }}).
 
-Short description: We study how small prompt and input variations affect deductive reasoning, analyze common failure modes, and outline an evaluation setup for robustness.
+Short description: We study how small prompt and input variations affect deductive reasoning, analyse common failure modes, and outline an evaluation setup for robustness.

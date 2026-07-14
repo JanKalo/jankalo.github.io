@@ -618,6 +618,13 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
+  .card-title {
+    // keep long words like "Autoformalization" from breaking mid-word
+    word-break: normal;
+    overflow-wrap: normal;
+    hyphens: none;
+  }
+
   a {
     text-decoration: none;
 
