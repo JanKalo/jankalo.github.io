@@ -11,3 +11,6 @@ assets/libs/
 node_modules/
 vendor
 .idea
+# private, not for the public repo
+_cv_source/
+memory/

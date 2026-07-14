@@ -17,9 +17,11 @@ or structured queries.
 Our ECAI 2025 paper [Investigating the Robustness of Deductive Reasoning with
 Large Language Models](/publications/#hoppe2025investigating) tests how small
 prompt and input variations affect deductive reasoning, characterises common
-failure modes, and proposes an evaluation setup for robustness. Our ACL 2025
+failure modes, and proposes an evaluation setup for robustness
+{% cite hoppe2025investigating %}. Our ACL 2025
 paper [ChronoSense](/publications/#islakoglu2025chronosense) examines
 temporal understanding using Allen-style event intervals, highlighting
-current gaps in interval reasoning. Ongoing supervision work extends this
+current gaps in interval reasoning {% cite islakoglu2025chronosense %}.
+Ongoing supervision work extends this
 line to GRPO-based autoformalization from natural language to first-order
 logic.

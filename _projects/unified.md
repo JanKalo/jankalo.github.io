@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UNIFIED
+title: Semantic Harmonisation in Digital Health (UNIFIED)
 description: EU Innovative Health Initiative project on patient-centred clinical-study endpoints derived from digital health technologies.
 img: assets/img/projects/unified.png
 importance: 4

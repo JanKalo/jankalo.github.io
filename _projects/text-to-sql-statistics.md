@@ -4,7 +4,6 @@ title: Text-to-SQL over Real-World Statistical Data
 description: Natural-language interfaces to official statistical data, in collaboration with Statistics Netherlands (CBS). Home of the LOCuST benchmark.
 importance: 3
 category: research
-related_publications: true
 ---
 
 Statistical databases are a uniquely hard testbed for natural-language

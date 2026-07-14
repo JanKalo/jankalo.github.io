@@ -27,3 +27,11 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+# stdlib gems removed from Ruby >= 3.4 default gems, still required by plugins
+gem 'base64'
+gem 'benchmark'
+gem 'bigdecimal'
+gem 'csv'
+gem 'logger'
+gem 'observer'
+gem 'ostruct'
