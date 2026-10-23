@@ -63,6 +63,7 @@ multilingual knowledge graphs, and a contributor to the
 
 ### Talks & tutorials
 
+- Keynote "The Decision Nobody Made: A Case for Explicit Knowledge Models", Learning and Reasoning with Graphs (LRG) Workshop at BNAIC/BeNeLearn 2026, Maastricht, October 2026 ([slides](/assets/pdf/lrg2026-the-decision-nobody-made.pdf))
 - Hands-on tutorial "LLM4KGC", SIKS & HI Course on Knowledge Graphs, online, June 2026
 - Tutorials at the International Semantic Web Summer School (ISWS), Bertinoro — 2024 and 2025
 - Invited talk, GOBLIN COST Action meeting, Prague, February 2025
